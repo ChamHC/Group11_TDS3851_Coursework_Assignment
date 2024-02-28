@@ -18,19 +18,19 @@ This project consist of 5 different parts: Logistic Regression Lab Enhancement, 
 - Project
 	- CALON-PARLIMEN-PRU-15-MALAYSIA.csv
 	- CALON-PARLIMEN-PRU-15-MALAYSIA.xlsx
-	- MLAssg.ipynb
+	- Group11_ML_Project.ipynb
 	- README.md
 - Video
-    - Assignment&Labs Presentationmp4.mp4
+    - Group11_Presentation.mp4
 - Lab_LogisticRegression
-	- ML_Lab08_LogisticRegression.ipynb
+	- Group11_ML_Lab08_LogisticRegression.ipynb
 	- README.md
 - Lab_LinearRegression
-	- LinearRegression.ipynb
+	- Group11_ML_Lab07_LinearRegression.ipynb
 	- README.md
 - Lab_KMeans
-	- ML_Lab04_KMeans.ipynb
+	- Group11_ML_Lab04_KMeans.ipynb
 	- README.md
 - LAb_PCA
-    - PCA.ipynb
+    - Group11_ML_Lab05_PCA.ipynb
     - README.md
