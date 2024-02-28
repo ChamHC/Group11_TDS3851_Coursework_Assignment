@@ -34,3 +34,6 @@ This project consist of 5 different parts: Logistic Regression Lab Enhancement, 
 - LAb_PCA
     - Group11_ML_Lab05_PCA.ipynb
     - README.md
+
+# Video Link
+https://youtu.be/voF_B6mvxuQ
